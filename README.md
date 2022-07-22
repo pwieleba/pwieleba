@@ -13,6 +13,6 @@
 
 
 
-<br>My github stats:</br>
+<br>My github stats</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwieleba&theme=tokyonight&show_icons=true)
 
